@@ -1127,7 +1127,7 @@ The following attributes are exported:
 * `gbp_pod_subnet` - (Optional) GBH pod subnet (string)
 * `host_agent_log_level` - (Optional) Log level for ACI host agent (string)
 * `image_pull_policy` - (Optional) Image pull policy (string)
-* `image_pull_secret` - (Optional) Image pull policy (string)
+* `image_pull_secret` - (Optional) Image pull secret (string)
 * `infra_vlan` - (Optional) The VLAN used by ACI infra (string)
 * `install_istio` - (Optional) Whether to install Istio (string)
 * `istio_profile` - (Optional) Istio profile name (string)
